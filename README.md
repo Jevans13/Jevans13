@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jevans13
 - 👀 I’m interested in blockchain development, defi, data analytics and growth marketing.
-- 🌱 I’m currently finishin an MSc Computer Science at University of Birmingham alongside learning Java, Python, JavaScript, Solidity and React.js
+- 🌱 I’m currently finishing an MSc Computer Science at University of Birmingham alongside learning Java, Python, JavaScript, Solidity and React.js
 - Undergraduate degree in Economics and Finance witth 2 years experience in External Audit
 - Reach me @Jackevans323 on Twitter or @JackEvans23 on Linkedin
